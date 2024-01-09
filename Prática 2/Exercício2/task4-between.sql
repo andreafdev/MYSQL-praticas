@@ -1,0 +1,2 @@
+SELECT * FROM tb_produtos 
+WHERE valor BETWEEN 5.00 AND 60.00;
